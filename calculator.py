@@ -214,6 +214,3 @@ btnequal = Button(frame5,text='=',font=('Verdana',20),border=0,command=btnequal_
 btnequal.pack(expand=True,fill='both',side='left')
 
 screen_val.mainloop()
-
-# Converting Py to exe file
-    # pyinstaller --onefile -w calculator_cls.py
